@@ -1,0 +1,33 @@
+INSTANCES CREATED
+
+![Instances _ EC2 Management Console - Google Chrome 24-08-2020 10_48_14](https://user-images.githubusercontent.com/69036557/91020426-0a022780-e610-11ea-8fd6-8389074a2a49.png)
+
+LOAD BALANCER CREATED
+
+![Instances _ EC2 Management Console - Google Chrome 24-08-2020 10_49_00](https://user-images.githubusercontent.com/69036557/91020493-24d49c00-e610-11ea-8999-420793126691.png)
+
+DETAIL ABOUT INSTANCE LINUX 2
+
+![Instances _ EC2 Management Console - Google Chrome 24-08-2020 10_51_55](https://user-images.githubusercontent.com/69036557/91020582-40d83d80-e610-11ea-87ff-f97802f58e75.png)
+
+HOSTED A LOGIN PAGE AND CHECKING  
+
+------------> INSTANCE = LinuX 1
+
+![Instances _ EC2 Management Console - Google Chrome 24-08-2020 10_48_39](https://user-images.githubusercontent.com/69036557/91020885-a75d5b80-e610-11ea-89d1-97315a7cc91f.png)
+
+------------> INSTANCE = LinuX 2
+
+![Instances _ EC2 Management Console - Google Chrome 24-08-2020 10_48_45](https://user-images.githubusercontent.com/69036557/91020993-cc51ce80-e610-11ea-8043-157e10564f63.png)
+
+CHECKING LOGIN PAGE WITH LOAD BALANCER 
+
+FIRST TIME LOAD
+
+![Instances _ EC2 Management Console - Google Chrome 24-08-2020 10_54_02](https://user-images.githubusercontent.com/69036557/91021114-ed1a2400-e610-11ea-895b-d180c4fe4810.png)
+
+
+SECOND TIME LOAD
+
+![Instances _ EC2 Management Console - Google Chrome 24-08-2020 10_54_43](https://user-images.githubusercontent.com/69036557/91021162-00c58a80-e611-11ea-9baf-45f5a9bf7679.png)
+
